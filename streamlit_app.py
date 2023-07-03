@@ -51,7 +51,7 @@ def check_password():
         return True
 
 if check_password():
-    st.write("Here goes your normal Streamlit app...")
+    st.write("欢迎登录wyj的应用页面！")
     st.button("Click me")
 
 
